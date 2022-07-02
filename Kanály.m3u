@@ -4,7 +4,7 @@ http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtasyHD.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="XXX",Extasy HD / Leo TV HD (576p)
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 #EXTINF:-1 tvg-id="Nova.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TV_Nova_logo_2017.png" group-title="",Nova (640p) [Geo-blocked]
-https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist.m3u8
+https://nova-ott-live-avod-sec.ssl.cdn.cra.cz/LLdEbxE0Ke-gZSBzeJteWw==,1656794340/channels/nova/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="Nova2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.epg.best/cz/Nova2.cz.png" group-title="",Nova 2 (640p) [Geo-blocked]
 https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8
 #EXTINF:-1 tvg-id="NovaAction.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nova-action-logo-2017.png" group-title="",Nova Action (576p) [Geo-blocked]
