@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CsFilm.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="CS_film___CS_mini___Horor_film.png" group-title="",Test1 CS Film
+http://174.36.220.217:5000/live/122/122.m3u8
+#EXTINF:-1 tvg-id="CsFilm.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="CS_film___CS_mini___Horor_film.png" group-title="",Test2 CS Film
+http://91.219.133.187:8080/udp/239.1.1.60:1234
 #EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="",Elektrika TV (1080p)
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtasyHD.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="XXX",Extasy HD / Leo TV HD (576p)
